@@ -5,3 +5,7 @@ console.log("Loading...")
 function main() {
   return null;
 }
+
+main()
+
+// console.log(main)
