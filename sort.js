@@ -1,2 +1,2 @@
-const sorting = ['4', '4'];
+const sorting = ['4', '4', '4', '4'];
 sorting.sort();
